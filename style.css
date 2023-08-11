@@ -13,7 +13,7 @@ body{
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background: url('Assets/modern-futuristic-sci-fi-background.jpg');
+    background: url('modern-futuristic-sci-fi-background.jpg');
     background-repeat: no-repeat;
     overflow: hidden;
 } 
